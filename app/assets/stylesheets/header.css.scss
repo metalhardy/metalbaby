@@ -1,0 +1,27 @@
+/* Header */
+
+.header {
+	border-bottom: 2px solid #E0E0EB;
+	padding: 5px 0 0;
+	ul {
+		padding-top: 80px;
+	}
+	li {
+		display: inline;
+		list-style-type: none;
+		margin-left: 10px;
+		text-shadow: 0 2px 0 #F7F7FA;
+	}
+	a {
+		font-size: 1.1em;
+		color: #BABAD1;
+		text-decoration: none;
+	}
+	a:hover {
+		color: #666;
+	}
+}
+
+#logo {
+	float: left;
+}
